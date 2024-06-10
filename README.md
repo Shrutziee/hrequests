@@ -46,7 +46,7 @@
 - Full page screenshots
 - Proxy support
 - Headless and headful support
-- No CORS restrictions
+- No CORS restrictions,,
 
 ### ⚡ More
 
